@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #cabcab;
+  color: #F8E71C;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -355,10 +355,10 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #cabcab;
+  color: #F8E71C;
   position: absolute;
   left: 0;
-  top: .05em;
+  top: .24em;
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -592,7 +592,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #161616; 
 }
 .fh5co-heading h3 {
-  font-size: 18px;
+  font-size: 24px;
   color: #161616;
 }
 .fh5co-heading p {
