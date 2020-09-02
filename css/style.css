@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Montserrat", Arial, sans-serif;
 }
 .fh5co-nav .fh5co-social {
-  margin: 3px 0 0 0;
+  margin: 18px 0 0 0;
   padding: 0;
 }
 .fh5co-nav .fh5co-social li {
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul {
   padding: 0;
-  margin: 3px 0 0 0;
+  margin: 18px 0 0 0;
 }
 .fh5co-nav ul li {
   padding: 0;
@@ -224,7 +224,6 @@ h1, h2, h3, h4, h5, h6, figure {
   visibility: hidden;
   opacity: 0;
   position: absolute;
-  top: 40px;
   left: 0;
   text-align: left;
   background: #161616;
